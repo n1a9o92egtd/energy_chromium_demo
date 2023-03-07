@@ -1,0 +1,10 @@
+github.com/energye/energy v1.109.1182 h1:HqWrMA8qrl0PX7IrejyS5dZm8wF4SvS/uk200KHotvA=
+github.com/energye/energy v1.109.1182/go.mod h1:krrFjf3O6pQWF75ArMmuXUefxnROkCYkdGSwM8yQUkY=
+github.com/energye/golcl v0.0.0-20230221030031-f70c394ea7a4 h1:5LuRYkr/o/V5khwBwyAxvfWnsdKpq23/sOU1MiKgf+A=
+github.com/energye/golcl v0.0.0-20230221030031-f70c394ea7a4/go.mod h1:zMXHYLRCs4FbWMc7mK+ePsbrgvrsWzgnONk/Yjt/C1E=
+github.com/godbus/dbus/v5 v5.1.0 h1:4KLkAxT3aOY8Li4FRJe/KvhoNFFxo0m6fNuFUO8QJUk=
+github.com/godbus/dbus/v5 v5.1.0/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
+github.com/tevino/abool v0.0.0-20220530134649-2bfc934cb23c h1:coVla7zpsycc+kA9NXpcvv2E4I7+ii6L5hZO2S6C3kw=
+github.com/tevino/abool v0.0.0-20220530134649-2bfc934cb23c/go.mod h1:qc66Pna1RiIsPa7O4Egxxs9OqkuxDX55zznh9K07Tzg=
+golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f h1:v4INt8xihDGvnrfjMDVXGxw9wrfxYyCjk0KbXjhR55s=
+golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
